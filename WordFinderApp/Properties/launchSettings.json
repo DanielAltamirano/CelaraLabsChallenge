@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordFinderApp": {
+      "commandName": "Project",
+      "commandLineArgs": "matrix.txt words.txt"
+    }
+  }
+}
